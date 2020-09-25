@@ -1,0 +1,1 @@
+This is Jasmine's first git project!
